@@ -1,0 +1,3 @@
+fastapi
+wfastcgi
+a2wfast
