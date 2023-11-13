@@ -65,8 +65,4 @@ A API oferece endpoints que permitem visualizar, obter detalhes e atualizar o st
         Método: PATCH
         Descrição: Atualiza os dados de um equipamento específico, como o status de ativação do sensor de movimento, o horário da última alteração, etc.
 
-
-# Exemplos de Uso:
-```cpp
-  cd my-project
-```
+**COM O CODIGO FONTES EM MÃOS VOCÊ PODE PUBLICAR ESSA API, NO SERVIDOR DE SUA PREFERENCENCIA, MAS NAO ESQUEÇA DE PASSAR O ENDPOINT DELE NO [SEGUINTE TOPICO](https://github.com/BrunoAlbuMaia/Home_-automation-Esp32-#configura%C3%A7%C3%A3o-do-ambiente-de-desenvolvimento-ide-arduino)**
